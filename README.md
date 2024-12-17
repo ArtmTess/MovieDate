@@ -35,7 +35,9 @@ An Excel file after the data cleaning & preparation process can be [downloaded h
 - Best and Worst profitable movie, etc.
 
 ### Results
-As an example: The most profitable movie was: with Budget of... Box Office Revenue was 102,000,000 USD.
+As an example: 
+- The most profitable movie was: with is The Devil Inside 10080% ROI
+- The worst profitable movie was: The Oogieloves in the Big Balloon Adventure -95% ROI
 ![Screenshot 2024-12-16 224124](https://github.com/user-attachments/assets/b918583e-7135-41e9-9574-9da47356bb40)
 
 

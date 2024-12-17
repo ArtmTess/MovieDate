@@ -7,5 +7,8 @@ Data analysis of Netflix movies from 2012 to 2016 years.
 3. [Results](#Results)
 4. [Challenges](#Challenges)
 
-# Project Overview
+# Project_Overview
 The goal of this data analysis project is to identify patterns in the performance and trends of Netflix movies in 2012-2016 and provide data-driven recommendation insights.
+
+# Data_Source
+The primary dataset used for this analysis is the "Movie Data.xmls" file, containing detailed information about each movie's performance, actors, directors etc.
